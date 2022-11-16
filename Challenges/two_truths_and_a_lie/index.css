@@ -1,0 +1,34 @@
+h1  {
+    
+    color: lightgreen;
+    text-align: center;
+    
+}
+h3 {
+    color: blue;
+}
+
+p {
+    color: red;
+}
+.outline-box{
+    outline: 10px solid black;
+    border-radius: 1px;
+    background-color: grey;
+  
+
+}
+div {
+    display: inline-block;
+}
+
+.truth{
+    outline:3px solid black;
+    border-radius: 2px;
+    background-color: lightgrey;
+    text-align: center;
+height: fit-content;
+width: fit-content;
+
+}
+
