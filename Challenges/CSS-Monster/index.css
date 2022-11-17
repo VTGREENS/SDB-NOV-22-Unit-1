@@ -1,0 +1,40 @@
+body {
+    background-color: black;
+}
+.face{
+    width: 500px;
+    height: 200px;
+    background-color: greenyellow;
+    border-radius: 50%;
+    border: solid 2px black;
+}
+
+.mask{
+    width: 500px;
+    height: 50px;
+    background-color: blueviolet;
+    border-radius: 25%;
+    border: solid 1px black;
+    margin: 10px;
+    top: 25px;
+    position: relative;
+}
+
+.eye{
+    width: 85px;
+    height: 30px;
+    border: solid 5px black;
+    position: relative;
+    background-color: white;
+    display: inline-block;
+    
+}
+.left{
+margin-left: 85px;
+margin-top: 5px;
+}
+.right{
+    float: right 30px;
+
+
+}
