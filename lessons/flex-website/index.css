@@ -21,6 +21,7 @@ body{
 }
 
 @media screen and (max-width: 680px){
+
 .row{
-    flex-direction: column;
+    flex-direction: column;}
 }
